@@ -60,4 +60,4 @@ I also created a password generator for this project named [Genesis](https://git
 
 ## Author:
 
-- [Sanix-darker](https://github.com/sanix-darker)
+- [ioslation](https://https://github.com/isolation0)
