@@ -56,7 +56,7 @@ if you don't want to deploy the target locally or doesn't have PHP install local
 
 ## BONUS (A PASSWORD GENERATOR)
 
-I also created a password generator for this project named [Genesis](https://github.com/isolation0/SSFX), that can generate multiple combination of passwords base on Key Word the victims could use, Have a look there ;-)
+I also created a password generator for this project named [SSFX](https://github.com/isolation0/SSFX), that can generate multiple combination of passwords base on Key Word the victims could use, Have a look there ;-)
 
 ## Twitter:
 - [ Twitter] (https://twitter.com/iuexb?s=21)
