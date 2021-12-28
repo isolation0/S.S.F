@@ -1,6 +1,6 @@
 <img src="https://d.top4top.io/p_2188rr2q81.jpg"/>
 
-# Brute-Force-Login
+# special forces ==> S.S.F
 
 Brute Force Login in a web site with Python, hack accounts on any website with a good dictionary of words.
 
@@ -28,7 +28,7 @@ pip3 install -r requierements.txt
 
 Launch it via your command line
 ```cmd
-cd C:/path/to/Brute-Force-Login
+cd C:/path/to/S.S.F
 python3 -m app.main
 ```
 
@@ -58,6 +58,8 @@ if you don't want to deploy the target locally or doesn't have PHP install local
 
 I also created a password generator for this project named [Genesis](https://github.com/Sanix-Darker/GENESIS), that can generate multiple combination of passwords base on Key Word the victims could use, Have a look there ;-)
 
+## Twitter:
+- [ Twitter] (https://twitter.com/iuexb?s=21)
 ## Author:
 
 - [ioslation](https://https://github.com/isolation0)
