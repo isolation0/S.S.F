@@ -1,4 +1,4 @@
-<img src="images/logo.png"/>
+<img src="https://d.top4top.io/p_2188rr2q81.jpg"/>
 
 # Brute-Force-Login
 
@@ -6,17 +6,6 @@ Brute Force Login in a web site with Python, hack accounts on any website with a
 
 
 **NOTE: AM NOT RESPONSIBLE OF BAD USE OF THIS PROJECT, it's only for searching purposes and learning environment!**
-
-## Demo
-
-- **Manual-Mode (You provide fields(username/password,...), 100% accurate**)<br/>
-<img src="./images/bfl0.gif"/>
-
-<br/>
-
-- **Automatic-Mode (Auto-detect fields in the login form (username/password,...), 47% accurate)**<br/>
-<img src="./images/bfl.gif"/>
-
 
 ## Features:
 
@@ -45,8 +34,7 @@ python3 -m app.main
 
 ## Target
 
-The target is present at `./target` directory, it's a simple php form, when you run it, you will have this:
-<img src="images/target.png" >
+The target is present at `./target` directory, it's a simple php form, when you run it, you will have this
 
 ### NOTE:
 
