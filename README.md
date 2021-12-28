@@ -62,4 +62,4 @@ I also created a password generator for this project named [Genesis](https://git
 - [ Twitter] (https://twitter.com/iuexb?s=21)
 ## Author:
 
-- [ioslation](https://https://github.com/isolation0)
+- [ioslation](https://github.com/isolation0)
