@@ -1,5 +1,5 @@
 # settings file
-# By Sanix-darker
+# By isolation
 
 def open_ressources(file_path):
     return [item.replace("\n", "") for item in open(file_path).readlines()]
