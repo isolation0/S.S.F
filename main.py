@@ -1,6 +1,6 @@
 #
 # Brute Force Login
-# By S4n1x D4rk3r
+# By isolation
 #
 
 from app.utils import *
